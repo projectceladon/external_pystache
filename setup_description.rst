@@ -307,11 +307,6 @@ Credits
     Author: Chris Wanstrath
     Maintainer: Chris Jerdonek
 
-Pystache logo by `David Phillips <http://davidphillips.us/>`__ is
-licensed under a `Creative Commons Attribution-ShareAlike 3.0 Unported
-License <http://creativecommons.org/licenses/by-sa/3.0/deed.en_US>`__.
-|image0|
-
 History
 =======
 
@@ -509,5 +504,3 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-.. |image0| image:: http://i.creativecommons.org/l/by-sa/3.0/88x31.png
